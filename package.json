@@ -1,0 +1,9 @@
+{
+    "name": "poridhi-infra",
+    "main": "index.js",
+    "dependencies": {
+        "@pulumi/aws": "^6.61.0",
+        "@pulumi/awsx": "^2.19.0",
+        "@pulumi/pulumi": "^3.0.0"
+    }
+}
