@@ -1,5 +1,4 @@
 # poridhi-infra
-pulumi token: pul-bc07833b089d4845e4852f39bce30e3645f33a0d
 
 
 
